@@ -1,2 +1,2 @@
-# admin-check-365
-Comunidade para Scripts em PowerShell do Microsoft 365 para profissionais de TI
+# Check para Administradores365
+Comunidade Brasileira para para profissionais de TI gestores do Microsoft 365 
